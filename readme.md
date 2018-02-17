@@ -1,4 +1,5 @@
-# Aile Ağacı
+# Tursoft Soyağacı Görselleştirme Aracı
 
-**Demo:**
+**Web Sitesi:**
 * https://tursoft.github.io/familytree/
+
